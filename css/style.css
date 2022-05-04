@@ -1,0 +1,46 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #bccad7;
+}
+
+.navbar {
+  background-color: #8269df !important;
+}
+
+.banner-image {
+  height: 200px;
+  object-fit: fill;
+}
+
+.dropdown-item:hover {
+  background-color: #8269df !important;
+  color: white;
+}
+
+.card-category {
+  background: #dadada;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color: #8269df;
+  color: white;
+  text-align: center;
+  line-height: 35px;
+  display: inline-block;
+}
+
+@media (min-width: 990.98px) {
+
+  .banner {
+    height: 500px;
+  }
+
+  .banner-image {
+    height: 500px;
+    object-fit: fill;
+  }
+}
