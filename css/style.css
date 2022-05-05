@@ -18,6 +18,11 @@ body {
   color: white;
 }
 
+.dropdown-menu .active {
+  background-color: #8269df !important;
+  color: white;
+}
+
 .card-category {
   background: #dadada;
 }
