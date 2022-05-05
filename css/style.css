@@ -22,6 +22,10 @@ body {
   background: #dadada;
 }
 
+.img-post {
+  height: 180px !important;
+}
+
 .circle {
   border-radius: 50%;
   width: 40px;
