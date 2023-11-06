@@ -45,11 +45,11 @@ body {
 @media (min-width: 990.98px) {
 
   .banner {
-    height: 500px;
+    height: 800px;
   }
 
   .banner-image {
-    height: 500px;
+    height: 800px;
     object-fit: fill;
   }
 }
