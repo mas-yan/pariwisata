@@ -5,7 +5,7 @@ body {
 }
 
 .navbar {
-  background-color: #8269df !important;
+  background-color: #192655 !important;
 }
 
 .banner-image {
@@ -14,12 +14,12 @@ body {
 }
 
 .dropdown-item:hover {
-  background-color: #8269df !important;
+  background-color: #192655 !important;
   color: white;
 }
 
 .dropdown-menu .active {
-  background-color: #8269df !important;
+  background-color: #192655 !important;
   color: white;
 }
 
@@ -35,7 +35,7 @@ body {
   border-radius: 50%;
   width: 40px;
   height: 40px;
-  background-color: #8269df;
+  background-color: #192655;
   color: white;
   text-align: center;
   line-height: 35px;
